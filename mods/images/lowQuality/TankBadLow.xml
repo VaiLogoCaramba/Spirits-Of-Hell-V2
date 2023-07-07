@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TankBadLow.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VehicleTankBadLoop0000" x="0" y="0" width="2395" height="1186" pivotX="-2.95" pivotY="-701.1"/>
+	<SubTexture name="VehicleTankBadLoop0001" x="0" y="1188" width="2395" height="1186"/>
+	<SubTexture name="VehicleTankBadLoop0002" x="0" y="2376" width="2395" height="1183" frameX="0" frameY="-3" frameWidth="2395" frameHeight="1186"/>
+	<SubTexture name="VehicleTankBadLoop0003" x="0" y="3561" width="2395" height="1183" frameX="0" frameY="-3" frameWidth="2395" frameHeight="1186"/>
+</TextureAtlas>

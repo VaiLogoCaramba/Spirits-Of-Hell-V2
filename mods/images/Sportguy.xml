@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sportguy.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SportGuySurpriseandDEATH0000" x="0" y="0" width="458" height="326" pivotX="-157.8" pivotY="82" frameX="-485" frameY="-573" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0001" x="460" y="0" width="500" height="472" frameX="-504" frameY="-498" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0002" x="460" y="0" width="500" height="472" frameX="-504" frameY="-498" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0003" x="962" y="0" width="528" height="465" frameX="-491" frameY="-516" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0004" x="962" y="0" width="528" height="465" frameX="-491" frameY="-516" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0005" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0006" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0007" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0008" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0009" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0010" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0011" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0012" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0013" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0014" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0015" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0016" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0017" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0018" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0019" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0020" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0021" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0022" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0023" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0024" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0025" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0026" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0027" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0028" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0029" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0030" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0031" x="1492" y="0" width="513" height="466" frameX="-500" frameY="-512" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0032" x="2007" y="0" width="513" height="978" frameX="-500" frameY="0" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0033" x="2522" y="0" width="855" height="483" frameX="-292" frameY="-488" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0034" x="2522" y="0" width="855" height="483" frameX="-292" frameY="-488" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0035" x="0" y="980" width="1143" height="596" frameX="-49" frameY="-332" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0036" x="0" y="980" width="1143" height="596" frameX="-49" frameY="-332" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0037" x="1145" y="980" width="1199" height="593" frameX="-9" frameY="-336" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0038" x="1145" y="980" width="1199" height="593" frameX="-9" frameY="-336" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0039" x="2346" y="980" width="1243" height="594" frameX="0" frameY="-336" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0040" x="2346" y="980" width="1243" height="594" frameX="0" frameY="-336" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0041" x="0" y="1578" width="1223" height="594" frameX="-12" frameY="-336" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0042" x="1225" y="1578" width="453" height="521" frameX="-517" frameY="-426" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0043" x="1225" y="1578" width="453" height="521" frameX="-517" frameY="-426" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0044" x="1680" y="1578" width="608" height="527" frameX="-584" frameY="-607" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0045" x="1680" y="1578" width="608" height="527" frameX="-584" frameY="-607" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0046" x="2290" y="1578" width="582" height="537" frameX="-584" frameY="-607" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0047" x="2290" y="1578" width="582" height="537" frameX="-584" frameY="-607" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0048" x="2874" y="1578" width="577" height="538" frameX="-584" frameY="-607" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0049" x="2874" y="1578" width="577" height="538" frameX="-584" frameY="-607" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="SportGuySurpriseandDEATH0050" x="2874" y="1578" width="577" height="538" frameX="-584" frameY="-607" frameWidth="1243" frameHeight="1145"/>
+	<SubTexture name="TankGuy10000" x="3453" y="1578" width="440" height="385" pivotX="-650.25" pivotY="-430" frameX="0" frameY="-6" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10001" x="3453" y="1578" width="440" height="385" frameX="0" frameY="-6" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10002" x="0" y="2174" width="435" height="388" frameX="-4" frameY="-4" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10003" x="0" y="2174" width="435" height="388" frameX="-4" frameY="-4" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10004" x="437" y="2174" width="428" height="391" frameX="-8" frameY="0" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10005" x="437" y="2174" width="428" height="391" frameX="-8" frameY="0" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10006" x="867" y="2174" width="425" height="389" frameX="-10" frameY="0" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10007" x="867" y="2174" width="425" height="389" frameX="-10" frameY="0" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10008" x="1294" y="2174" width="427" height="389" frameX="-9" frameY="0" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10009" x="1294" y="2174" width="427" height="389" frameX="-9" frameY="0" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10010" x="1294" y="2174" width="427" height="389" frameX="-9" frameY="0" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10011" x="1294" y="2174" width="427" height="389" frameX="-9" frameY="0" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10012" x="1294" y="2174" width="427" height="389" frameX="-9" frameY="0" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuy10013" x="1294" y="2174" width="427" height="389" frameX="-9" frameY="0" frameWidth="440" frameHeight="392"/>
+	<SubTexture name="TankGuyLEVERPULL0000" x="1723" y="2174" width="435" height="379" pivotX="-572.9" pivotY="-425.05" frameX="-88" frameY="-8" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0001" x="2160" y="2174" width="410" height="375" frameX="-113" frameY="-8" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0002" x="2160" y="2174" width="410" height="375" frameX="-113" frameY="-8" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0003" x="2572" y="2174" width="413" height="375" frameX="-116" frameY="-8" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0004" x="2572" y="2174" width="413" height="375" frameX="-116" frameY="-8" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0005" x="2987" y="2174" width="412" height="375" frameX="-117" frameY="-8" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0006" x="2987" y="2174" width="412" height="375" frameX="-117" frameY="-8" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0007" x="2987" y="2174" width="412" height="375" frameX="-117" frameY="-8" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0008" x="3401" y="2174" width="398" height="375" frameX="-127" frameY="-8" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0009" x="0" y="2567" width="514" height="396" frameX="0" frameY="0" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0010" x="516" y="2567" width="508" height="399" frameX="-3" frameY="-2" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0011" x="516" y="2567" width="508" height="399" frameX="-3" frameY="-2" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0012" x="1026" y="2567" width="497" height="399" frameX="-15" frameY="-1" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0013" x="1026" y="2567" width="497" height="399" frameX="-15" frameY="-1" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0014" x="1525" y="2567" width="494" height="396" frameX="-19" frameY="-3" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0015" x="1525" y="2567" width="494" height="396" frameX="-19" frameY="-3" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0016" x="1525" y="2567" width="494" height="396" frameX="-19" frameY="-3" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0017" x="1525" y="2567" width="494" height="396" frameX="-19" frameY="-3" frameWidth="529" frameHeight="401"/>
+	<SubTexture name="TankGuyLEVERPULL0018" x="1525" y="2567" width="494" height="396" frameX="-19" frameY="-3" frameWidth="529" frameHeight="401"/>
+</TextureAtlas>

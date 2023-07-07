@@ -1,0 +1,787 @@
+{
+    "ANIMATION": {
+        "name": "RoadKillMasterFLA",
+        "SYMBOL_name": "SS",
+        "TIMELINE": {
+            "LAYERS": [
+                {
+                    "Layer_name": "Слой_1",
+                    "Frames": [
+                        {
+                            "name": "idle",
+                            "index": 0,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "SkittlesStand",
+                                        "Instance_Name": "InstName",
+                                        "symbolType": "graphic",
+                                        "firstFrame": 0,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 1099.35,
+                                            "y": 1567.15
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 1004.35,
+                                            "m31": 246.95,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 1004.35,
+                                                "y": 246.95,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "anim",
+                            "index": 1,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "SkittlesStand",
+                                        "Instance_Name": "InstName",
+                                        "symbolType": "graphic",
+                                        "firstFrame": 1,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 1099.35,
+                                            "y": 1567.15
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 1004.35,
+                                            "m31": 246.95,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 1004.35,
+                                                "y": 246.95,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 2,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "SkittlesStand",
+                                        "Instance_Name": "InstName",
+                                        "symbolType": "graphic",
+                                        "firstFrame": 2,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 1099.35,
+                                            "y": 1567.15
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 1004.35,
+                                            "m31": 246.95,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 1004.35,
+                                                "y": 246.95,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 3,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "SkittlesStand",
+                                        "Instance_Name": "InstName",
+                                        "symbolType": "graphic",
+                                        "firstFrame": 3,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 1099.35,
+                                            "y": 1567.15
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 1004.35,
+                                            "m31": 246.95,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 1004.35,
+                                                "y": 246.95,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 4,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "SkittlesStand",
+                                        "Instance_Name": "InstName",
+                                        "symbolType": "graphic",
+                                        "firstFrame": 4,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 1099.35,
+                                            "y": 1567.15
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 1004.35,
+                                            "m31": 246.95,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 1004.35,
+                                                "y": 246.95,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 5,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "SkittlesStand",
+                                        "Instance_Name": "InstName",
+                                        "symbolType": "graphic",
+                                        "firstFrame": 5,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 1099.35,
+                                            "y": 1567.15
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 1004.35,
+                                            "m31": 246.95,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 1004.35,
+                                                "y": 246.95,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 6,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "SkittlesStand",
+                                        "Instance_Name": "InstName",
+                                        "symbolType": "graphic",
+                                        "firstFrame": 6,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 1099.35,
+                                            "y": 1567.15
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 1004.35,
+                                            "m31": 246.95,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 1004.35,
+                                                "y": 246.95,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 7,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "SkittlesStand",
+                                        "Instance_Name": "InstName",
+                                        "symbolType": "graphic",
+                                        "firstFrame": 7,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 1099.35,
+                                            "y": 1567.15
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 1004.35,
+                                            "m31": 246.95,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 1004.35,
+                                                "y": 246.95,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "index": 8,
+                            "duration": 1,
+                            "elements": [
+                                {
+                                    "SYMBOL_Instance": {
+                                        "SYMBOL_name": "SkittlesStand",
+                                        "Instance_Name": "InstName",
+                                        "symbolType": "graphic",
+                                        "firstFrame": 8,
+                                        "loop": "loop",
+                                        "transformationPoint": {
+                                            "x": 1099.35,
+                                            "y": 1567.15
+                                        },
+                                        "Matrix3D": {
+                                            "m00": 1,
+                                            "m01": 0,
+                                            "m02": 0,
+                                            "m03": 0,
+                                            "m10": 0,
+                                            "m11": 1,
+                                            "m12": 0,
+                                            "m13": 0,
+                                            "m20": 0,
+                                            "m21": 0,
+                                            "m22": 1,
+                                            "m23": 0,
+                                            "m30": 1004.35,
+                                            "m31": 246.95,
+                                            "m32": 0,
+                                            "m33": 1
+                                        },
+                                        "DecomposedMatrix": {
+                                            "Position": {
+                                                "x": 1004.35,
+                                                "y": 246.95,
+                                                "z": 0
+                                            },
+                                            "Rotation": {
+                                                "x": 0,
+                                                "y": -0,
+                                                "z": 0
+                                            },
+                                            "Scaling": {
+                                                "x": 1,
+                                                "y": 1,
+                                                "z": 1
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "SYMBOL_DICTIONARY": {
+        "Symbols": [
+            {
+                "SYMBOL_name": "SkittlesStand",
+                "TIMELINE": {
+                    "LAYERS": [
+                        {
+                            "Layer_name": "Layer_2",
+                            "Frames": [
+                                {
+                                    "index": 0,
+                                    "duration": 1,
+                                    "elements": []
+                                },
+                                {
+                                    "index": 1,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0000",
+                                                "Position": {
+                                                    "x": 710,
+                                                    "y": 344
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 2,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0001",
+                                                "Position": {
+                                                    "x": 1593,
+                                                    "y": -15
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 3,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0002",
+                                                "Position": {
+                                                    "x": 1593,
+                                                    "y": -15
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 4,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0003",
+                                                "Position": {
+                                                    "x": 1865,
+                                                    "y": 17
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 5,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0004",
+                                                "Position": {
+                                                    "x": 1865,
+                                                    "y": 17
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 6,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0005",
+                                                "Position": {
+                                                    "x": 1887,
+                                                    "y": 86
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 7,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0006",
+                                                "Position": {
+                                                    "x": 1887,
+                                                    "y": 86
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 8,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0006",
+                                                "Position": {
+                                                    "x": 1887,
+                                                    "y": 86
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "Layer_name": "Layer_1",
+                            "Frames": [
+                                {
+                                    "index": 0,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0007",
+                                                "Position": {
+                                                    "x": -1004,
+                                                    "y": -247
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 1,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0008",
+                                                "Position": {
+                                                    "x": -1004,
+                                                    "y": -247
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 2,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0009",
+                                                "Position": {
+                                                    "x": -1004,
+                                                    "y": -247
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 3,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0010",
+                                                "Position": {
+                                                    "x": -1004,
+                                                    "y": -247
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 4,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0011",
+                                                "Position": {
+                                                    "x": -1004,
+                                                    "y": -247
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 5,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0012",
+                                                "Position": {
+                                                    "x": -1004,
+                                                    "y": -247
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 6,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0013",
+                                                "Position": {
+                                                    "x": -1004,
+                                                    "y": -247
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 7,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0014",
+                                                "Position": {
+                                                    "x": -1004,
+                                                    "y": -247
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "index": 8,
+                                    "duration": 1,
+                                    "elements": [
+                                        {
+                                            "ATLAS_SPRITE_instance": {
+                                                "name": "0015",
+                                                "Position": {
+                                                    "x": -1004,
+                                                    "y": -247
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "framerate": 24
+    }
+}
