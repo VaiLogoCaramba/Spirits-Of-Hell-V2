@@ -1,1 +1,1 @@
-Bug fixes
+assets/images/gallery/arrow.png
