@@ -20,7 +20,7 @@ function onCreatePost()
 	addLuaSprite('healthBarOV');
 	
 	setProperty('coolDadBar.color', getIconColor('dad'));
-		setProperty('coolBfBar.color', getIconColor('boyfriend'));
+		setProperty('coolBfBar.color', getIconColor('bf'));
 
 					if getPropertyFromClass('ClientPrefs', 'downScroll') then
 		setProperty('iconP1.y', 0);
@@ -46,9 +46,9 @@ function onUpdatePost(e)
 		curFrame = 0;
 	end
 
-	curHealth = getProperty('health')/2;
-	setProperty('coolDadBar._frame.frame.width', -215 + (math.lerp(1089, 0, curHealth))); --masking parts of the opponent healthbar based on some offset + health
-
+	curHealth = getProperty('health');
+	setProperty('coolDadBar._frame.frame.width', -215 + (math.lerp(1100, 0, curHealth/2))); --masking parts of the opponent healthbar based on some offset + health
+	
 	end
 
 
@@ -57,17 +57,12 @@ function math.lerp(a, b, t)
 end
 function onEvent(name, value1, value2)
 	if string.lower(name) == "change character" then
-		if tonumber(value1) == 1 then
-			setProperty('coolDadBar.color', getIconColor('dad'))
-		end
+		setProperty('coolDadBar.color', getIconColor('dad'))
+		setProperty('coolBfBar.color', getIconColor('bf'))
 	end
 end
 
 function getIconColor(chr)
-	local chr = chr or "dad"  or "boyfriend"
-	return getColorFromHex(rgbToHex(getProperty(chr .. ".healthColorArray")))
-end
-
-function rgbToHex(array)
-	return string.format('%.2x%.2x%.2x', array[1], array[2], array[3])
+	local chr = chr or "dad"  or "bf"
+	return getProperty(chr.."Color")
 end

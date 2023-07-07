@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="outdatedAssets.png">
+<SubTexture name="backspace to skip0000" x="0" y="0" width="273" height="106" frameX="0" frameY="0" frameWidth="273" frameHeight="106" />
+<SubTexture name="enter to update0000" x="273" y="0" width="302" height="106" frameX="0" frameY="0" frameWidth="302" frameHeight="106" />
+</TextureAtlas>
