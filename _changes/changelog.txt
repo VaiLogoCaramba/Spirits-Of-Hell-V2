@@ -1,7 +1,3 @@
-2.0.3 - Updater Fix
-- Fixes that the updater can't find certain files
-- Remove missing assets warning
-
 2.0.2 - Bug Fixes
 - Fixed Pressing TAB crashing the game
 - Fixed The Health Bar Offset
@@ -14,3 +10,5 @@
 - Character no longer turn transparent
 - Smooth Health Bar
 - Fixed Middle Scroll for Bingo Forest
+- Fixes that the updater can't find certain files
+- Remove missing assets warning
