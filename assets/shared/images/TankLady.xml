@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TankLady.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TankLady0000" x="0" y="0" width="649" height="554" pivotX="-547.6" pivotY="-384" frameX="0" frameY="-12" frameWidth="677" frameHeight="566"/>
+	<SubTexture name="TankLady0001" x="0" y="0" width="649" height="554" frameX="0" frameY="-12" frameWidth="677" frameHeight="566"/>
+	<SubTexture name="TankLady0002" x="651" y="0" width="667" height="563" frameX="-10" frameY="0" frameWidth="677" frameHeight="566"/>
+	<SubTexture name="TankLady0003" x="651" y="0" width="667" height="563" frameX="-10" frameY="0" frameWidth="677" frameHeight="566"/>
+	<SubTexture name="TankLady0004" x="1320" y="0" width="663" height="555" frameX="-8" frameY="-9" frameWidth="677" frameHeight="566"/>
+	<SubTexture name="TankLady0005" x="1320" y="0" width="663" height="555" frameX="-8" frameY="-9" frameWidth="677" frameHeight="566"/>
+	<SubTexture name="TankLady0006" x="1985" y="0" width="667" height="554" frameX="-7" frameY="-10" frameWidth="677" frameHeight="566"/>
+	<SubTexture name="TankLady0007" x="1985" y="0" width="667" height="554" frameX="-7" frameY="-10" frameWidth="677" frameHeight="566"/>
+	<SubTexture name="TankLady20000" x="2654" y="0" width="586" height="517" pivotX="-527.1" pivotY="-367.8" frameX="-65" frameY="-17" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20001" x="2654" y="0" width="586" height="517" frameX="-65" frameY="-17" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20002" x="3242" y="0" width="589" height="517" frameX="-59" frameY="-18" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20003" x="3242" y="0" width="589" height="517" frameX="-59" frameY="-18" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20004" x="0" y="565" width="592" height="515" frameX="-53" frameY="-19" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20005" x="0" y="565" width="592" height="515" frameX="-53" frameY="-19" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20006" x="594" y="565" width="592" height="514" frameX="-52" frameY="-20" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20007" x="594" y="565" width="592" height="514" frameX="-52" frameY="-20" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20008" x="1188" y="565" width="593" height="517" frameX="-54" frameY="-17" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20009" x="1188" y="565" width="593" height="517" frameX="-54" frameY="-17" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20010" x="1783" y="565" width="594" height="518" frameX="-56" frameY="-16" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20011" x="1783" y="565" width="594" height="518" frameX="-56" frameY="-16" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20012" x="2379" y="565" width="591" height="516" frameX="-56" frameY="-18" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20013" x="2379" y="565" width="591" height="516" frameX="-56" frameY="-18" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20014" x="2972" y="565" width="591" height="517" frameX="-56" frameY="-17" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20015" x="2972" y="565" width="591" height="517" frameX="-56" frameY="-17" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20016" x="2972" y="565" width="591" height="517" frameX="-56" frameY="-17" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20017" x="0" y="1085" width="572" height="537" frameX="-70" frameY="0" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20018" x="0" y="1085" width="572" height="537" frameX="-70" frameY="0" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20019" x="574" y="1085" width="649" height="468" frameX="-12" frameY="-67" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20020" x="1225" y="1085" width="652" height="508" frameX="0" frameY="-82" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20021" x="1225" y="1085" width="652" height="508" frameX="0" frameY="-82" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20022" x="1879" y="1085" width="621" height="502" frameX="0" frameY="-88" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20023" x="1879" y="1085" width="621" height="502" frameX="0" frameY="-88" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20024" x="2502" y="1085" width="751" height="574" frameX="-34" frameY="-7" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20025" x="2502" y="1085" width="751" height="574" frameX="-34" frameY="-7" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20026" x="3255" y="1085" width="706" height="576" frameX="-30" frameY="-7" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20027" x="3255" y="1085" width="706" height="576" frameX="-30" frameY="-7" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20028" x="0" y="1663" width="724" height="570" frameX="-30" frameY="-13" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20029" x="0" y="1663" width="724" height="570" frameX="-30" frameY="-13" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20030" x="726" y="1663" width="727" height="569" frameX="-31" frameY="-14" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20031" x="726" y="1663" width="727" height="569" frameX="-31" frameY="-14" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20032" x="1455" y="1663" width="727" height="568" frameX="-31" frameY="-15" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20033" x="2184" y="1663" width="727" height="568" frameX="-31" frameY="-15" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20034" x="2913" y="1663" width="726" height="568" frameX="-31" frameY="-15" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20035" x="2913" y="1663" width="726" height="568" frameX="-31" frameY="-15" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20036" x="0" y="2235" width="726" height="568" frameX="-31" frameY="-15" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20037" x="0" y="2235" width="726" height="568" frameX="-31" frameY="-15" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20038" x="0" y="2235" width="726" height="568" frameX="-31" frameY="-15" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20039" x="0" y="2235" width="726" height="568" frameX="-31" frameY="-15" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20040" x="728" y="2235" width="635" height="570" frameX="-31" frameY="-13" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20041" x="728" y="2235" width="635" height="570" frameX="-31" frameY="-13" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20042" x="1365" y="2235" width="636" height="557" frameX="-28" frameY="-26" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20043" x="1365" y="2235" width="636" height="557" frameX="-28" frameY="-26" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20044" x="2003" y="2235" width="630" height="566" frameX="-27" frameY="-17" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20045" x="2003" y="2235" width="630" height="566" frameX="-27" frameY="-17" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20046" x="2635" y="2235" width="633" height="563" frameX="-27" frameY="-20" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20047" x="2635" y="2235" width="633" height="563" frameX="-27" frameY="-20" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20048" x="2635" y="2235" width="633" height="563" frameX="-27" frameY="-20" frameWidth="785" frameHeight="590"/>
+	<SubTexture name="TankLady20049" x="2635" y="2235" width="633" height="563" frameX="-27" frameY="-20" frameWidth="785" frameHeight="590"/>
+</TextureAtlas>

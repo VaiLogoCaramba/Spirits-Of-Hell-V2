@@ -1,0 +1,888 @@
+SOH V2.exe
+assets/custom_events/Change_Icon.lua
+assets/custom_events/Change_Icon.txt
+assets/custom_events/DodgeEvent.lua
+assets/custom_events/DodgeEvent.txt
+assets/custom_events/Flash Camera.txt
+assets/custom_events/FlashCamera.lua
+assets/custom_events/Flash_Camera.lua
+assets/custom_events/Flash_Camera.txt
+assets/custom_events/Flashing Camera.lua
+assets/custom_events/Flashing Camera.txt
+assets/custom_events/Hide_HealthBar.lua
+assets/custom_events/Hide_HealthBar.txt
+assets/custom_events/Instruction.txt
+assets/custom_events/Middle Scroll.lua
+assets/custom_events/Middle Scroll.txt
+assets/custom_events/Middle_Scroll_Switch.lua
+assets/custom_events/Middle_Scroll_Switch.txt
+assets/custom_events/Note Swap.lua
+assets/custom_events/Note Swap.txt
+assets/custom_events/Pixel Zoom.lua
+assets/custom_events/Pixel Zoom.txt
+assets/custom_events/Set Cam Zoom.lua
+assets/custom_events/Set Cam Zoom.txt
+assets/custom_events/Toggle Trail.lua
+assets/custom_events/Toggle Trail.txt
+assets/custom_events/Zoom.lua
+assets/custom_events/Zoom.txt
+assets/custom_events/badapplelol.lua
+assets/custom_events/badapplelol.txt
+assets/custom_events/lmao.lua
+assets/custom_events/lmao.txt
+assets/custom_events/lol.lua
+assets/custom_events/lol.txt
+assets/custom_events/pixelStage.txt
+assets/custom_events/readme.txt
+assets/custom_events/sonicBars.lua
+assets/custom_events/sonicBars.txt
+assets/custom_events/sonicBarsH.lua
+assets/custom_events/sonicBarsH.txt
+assets/custom_events/sonicBarsNotes.lua
+assets/custom_events/sonicBarsNotes.txt
+assets/custom_events/sonicBarsNotesH.lua
+assets/custom_events/sonicBarsNotesH.txt
+assets/data/alliance-but-cringe/events.json
+assets/hb.lua
+assets/images/icons/Icon-Encore-bf-pixel.png
+assets/images/icons/Icon-Encore-bf.png
+assets/images/icons/Icon-SMV5.png
+assets/images/icons/Icon-sally.png
+assets/images/icons/Icon-sonic.png
+assets/images/icons/cheese.png
+assets/images/icons/icon-Eggman.png
+assets/images/icons/icon-amy.png
+assets/images/icons/icon-amyexe.png
+assets/images/icons/icon-bfexe.png
+assets/images/icons/icon-cbf.png
+assets/images/icons/icon-cream.png
+assets/images/icons/icon-creamexe.png
+assets/images/icons/icon-ctails.png
+assets/images/icons/icon-darkexeller.png
+assets/images/icons/icon-die.png
+assets/images/icons/icon-eggmanexe.png
+assets/images/icons/icon-exebi.png
+assets/images/icons/icon-execun.png
+assets/images/icons/icon-exeller-sprite.png
+assets/images/icons/icon-exeller.png
+assets/images/icons/icon-exetior.png
+assets/images/icons/icon-iso.png
+assets/images/icons/icon-knuckles-sprite.png
+assets/images/icons/icon-knuckles.png
+assets/images/icons/icon-knux.exe.png
+assets/images/icons/icon-lightexeller.png
+assets/images/icons/icon-majin.png
+assets/images/icons/icon-metal.png
+assets/images/icons/icon-soul-sonic.png
+assets/images/icons/icon-tails-doll.png
+assets/images/icons/icon-tails-exe.png
+assets/images/icons/icon-tails.png
+assets/images/icons/icon-vanilla.png
+assets/images/icons/icon-whisper.png
+assets/images/icons/pauseIcon.png
+assets/scripts/exellerscript.lua
+assets/scripts/readme.txt
+assets/shared/images/11124.png
+assets/shared/images/Attempt.png
+assets/shared/images/BATTLEFIELD.png
+assets/shared/images/Black.png
+assets/shared/images/CITY.png
+assets/shared/images/CLOUDS.png
+assets/shared/images/ENEMYBASE.png
+assets/shared/images/Explosion.png
+assets/shared/images/Explosion.xml
+assets/shared/images/FLOOR.png
+assets/shared/images/FOREGROUND.png
+assets/shared/images/FrontStore.png
+assets/shared/images/GuysonTables.png
+assets/shared/images/HydroBG.png
+assets/shared/images/HydroStage.png
+assets/shared/images/Idkwhattosay.PNG
+assets/shared/images/LavaMountains.PNG
+assets/shared/images/LavaNight.PNG
+assets/shared/images/LavaStage.PNG
+assets/shared/images/MOUNTAINS.png
+assets/shared/images/MasterEmeraldBackstage.PNG
+assets/shared/images/MasterEmeraldStage.PNG
+assets/shared/images/MetroStage.PNG
+assets/shared/images/PrivateSkittlesHut.png
+assets/shared/images/PrivateSkittlesHut.xml
+assets/shared/images/RECUPERE_12242_pluid.png
+assets/shared/images/RECUPERE_12242_pluid.xml
+assets/shared/images/Rings.png
+assets/shared/images/Rings.xml
+assets/shared/images/SKYBOX.png
+assets/shared/images/STARDESTROYER.png
+assets/shared/images/Screenshot_8.png
+assets/shared/images/Sportguy.png
+assets/shared/images/Sportguy.xml
+assets/shared/images/Steve.png
+assets/shared/images/Steve.xml
+assets/shared/images/TWOBUILDINGS.png
+assets/shared/images/Tank.png
+assets/shared/images/Tank.xml
+assets/shared/images/TankBad.png
+assets/shared/images/TankBad.xml
+assets/shared/images/TankLady.png
+assets/shared/images/TankLady.xml
+assets/shared/images/ThrowingThingTHROW.png
+assets/shared/images/ThrowingThingTHROW.xml
+assets/shared/images/Week.png
+assets/shared/images/ZoneCircle.png
+assets/shared/images/b tree.png
+assets/shared/images/bar.png
+assets/shared/images/bgi.png
+assets/shared/images/bingobg.png
+assets/shared/images/bingoground.png
+assets/shared/images/black tree.png
+assets/shared/images/blacks trees.png
+assets/shared/images/blacksonk.png
+assets/shared/images/bloodground.png
+assets/shared/images/bloodplat.png
+assets/shared/images/boo.png
+assets/shared/images/boo.xml
+assets/shared/images/bricks.PNG
+assets/shared/images/brouillard.png
+assets/shared/images/brouillard.xml
+assets/shared/images/bubles.png
+assets/shared/images/bubles.xml
+assets/shared/images/bulles.png
+assets/shared/images/bulles.xml
+assets/shared/images/characters/CapDead.png
+assets/shared/images/characters/CapDead.xml
+assets/shared/images/characters/Captain.png
+assets/shared/images/characters/Captain.xml
+assets/shared/images/characters/Dark_Exeller.png
+assets/shared/images/characters/Dark_Exeller.xml
+assets/shared/images/characters/Execum.png
+assets/shared/images/characters/Execum.xml
+assets/shared/images/characters/Exeller Sprite.png
+assets/shared/images/characters/Exeller Sprite.xml
+assets/shared/images/characters/Exeller.png
+assets/shared/images/characters/Exeller.xml
+assets/shared/images/characters/Exeller_Assets.png
+assets/shared/images/characters/Exeller_Assets.xml
+images/characters/Exeller_Assets_Spin.png73539 bytes
+images/characters/Exeller_Assets_Spin.xml
+assets/shared/images/characters/Exetior_Assets.png
+assets/shared/images/characters/Exetior_Assets.xml
+assets/shared/images/characters/Light_EXE.png
+assets/shared/images/characters/Light_EXE.xml
+assets/shared/images/characters/Sally.png
+assets/shared/images/characters/Sally.xml
+assets/shared/images/characters/Sportman.png
+assets/shared/images/characters/Sportman.xml
+shared/images/characters/SportmanPlayable.png
+shared/images/characters/SportmanPlayable.xml
+assets/shared/images/characters/StevePlayable.png
+assets/shared/images/characters/StevePlayable.xml
+assets/shared/images/characters/amy.png
+assets/shared/images/characters/amy.xml
+assets/shared/images/characters/amyl.png
+assets/shared/images/characters/amyl.xml
+assets/shared/images/characters/amyturned.png
+assets/shared/images/characters/amyturned.xml
+assets/shared/images/characters/bf funny.png
+assets/shared/images/characters/bf funny.xml
+assets/shared/images/characters/bf knux.png
+assets/shared/images/characters/bf knux.xml
+assets/shared/images/characters/bf_run.png
+assets/shared/images/characters/bf_run.xml
+assets/shared/images/characters/bf_run_legs.png
+assets/shared/images/characters/bf_run_legs.xml
+assets/shared/images/characters/bfexe.png
+assets/shared/images/characters/bfexe.xml
+assets/shared/images/characters/bfv.png
+assets/shared/images/characters/bfv.xml
+assets/shared/images/characters/cbf.png
+assets/shared/images/characters/cbf.xml
+assets/shared/images/characters/cheese.png
+assets/shared/images/characters/cheese.xml
+assets/shared/images/characters/cream sad.png
+assets/shared/images/characters/cream sad.xml
+assets/shared/images/characters/cream.png
+assets/shared/images/characters/cream.xml
+assets/shared/images/characters/creamexe.png
+assets/shared/images/characters/creamexe.xml
+assets/shared/images/characters/creamv.png
+assets/shared/images/characters/creamv.xml
+assets/shared/images/characters/ctails.png
+assets/shared/images/characters/ctails.xml
+assets/shared/images/characters/darkbg.png
+assets/shared/images/characters/e bf.png
+assets/shared/images/characters/e bf.xml
+assets/shared/images/characters/eggman.png
+assets/shared/images/characters/eggman.xml
+assets/shared/images/characters/exe knuckles.png
+assets/shared/images/characters/exe knuckles.xml
+assets/shared/images/characters/give up bf.png
+assets/shared/images/characters/give up bf.xml
+shared/images/characters/give up cream exe.png
+shared/images/characters/give up cream exe.xml
+images/characters/give up eggman exe.png
+images/characters/give up eggman exe.xml
+assets/shared/images/characters/give up exe bf.png
+assets/shared/images/characters/give up exe bf.xml
+shared/images/characters/give up exeller.png
+shared/images/characters/give up exeller.xml
+assets/shared/images/characters/give up knux.png
+assets/shared/images/characters/give up knux.xml
+assets/shared/images/characters/give up metal.png
+assets/shared/images/characters/give up metal.xml
+shared/images/characters/give up sally exe.png
+shared/images/characters/give up sally exe.xml
+assets/shared/images/characters/give up sonic.png
+assets/shared/images/characters/give up sonic.xml
+images/characters/give up tails doll.png
+images/characters/give up tails doll.xml
+assets/shared/images/characters/give up tails.png
+assets/shared/images/characters/give up tails.xml
+assets/shared/images/characters/give up touls.png
+assets/shared/images/characters/give up touls.xml
+assets/shared/images/characters/knuckles.png
+assets/shared/images/characters/knuckles.xml
+shared/images/characters/knucklesdrugged.png 377370 bytes
+shared/images/characters/knucklesdrugged.xml
+assets/shared/images/characters/knuckleshydro.png
+assets/shared/images/characters/knuckleshydro.xml
+assets/shared/images/characters/knuckong.png
+assets/shared/images/characters/knuckong.xml
+assets/shared/images/characters/metal sonic.png
+assets/shared/images/characters/metal sonic.xml
+assets/shared/images/characters/mouse_beta.png
+assets/shared/images/characters/mouse_beta.xml
+assets/shared/images/characters/p knuckles.png
+assets/shared/images/characters/p knuckles.xml
+assets/shared/images/characters/readme.txt
+assets/shared/images/characters/semiexe sonic.png
+assets/shared/images/characters/semiexe sonic.xml
+assets/shared/images/characters/smv5_ourple.xml
+assets/shared/images/characters/sonic.png
+assets/shared/images/characters/sonic.xml
+assets/shared/images/characters/sonic_exe.png
+assets/shared/images/characters/sonic_exe.xml
+assets/shared/images/characters/soul sonic.png
+assets/shared/images/characters/soul sonic.xml
+assets/shared/images/characters/tails doll.png
+assets/shared/images/characters/tails doll.xml
+assets/shared/images/characters/tails.png
+assets/shared/images/characters/tails.xml
+assets/shared/images/characters/tailsnormal.png
+assets/shared/images/characters/tailsnormal.xml
+assets/shared/images/characters/tiky.png
+assets/shared/images/characters/tiky.xml
+assets/shared/images/characters/vanilla dark.png
+assets/shared/images/characters/vanilla dark.xml
+assets/shared/images/characters/vanilla.png
+assets/shared/images/characters/vanilla.xml
+assets/shared/images/characters/wisper.png
+assets/shared/images/characters/wisper.xml
+assets/shared/images/cringe.png
+assets/shared/images/darkForest/BG.png
+assets/shared/images/darkForest/Floor.png
+assets/shared/images/darkForest/Trees.png
+assets/shared/images/darkbg.png
+assets/shared/images/darkground.png
+assets/shared/images/dollbar.png
+assets/shared/images/execum.png
+assets/shared/images/execum.xml
+assets/shared/images/flash.png
+assets/shared/images/fleu.png
+assets/shared/images/fleu.xml
+assets/shared/images/fleur.png
+assets/shared/images/fleur.xml
+assets/shared/images/flow.png
+assets/shared/images/flow.xml
+assets/shared/images/flowers.png
+assets/shared/images/flowers.xml
+assets/shared/images/fog.png
+assets/shared/images/foggy.png
+assets/shared/images/foggyclouds.png
+assets/shared/images/foggyground.png
+assets/shared/images/foggyrock.png
+assets/shared/images/foggysky.png
+assets/shared/images/freedomback.png
+assets/shared/images/freedomcity.png
+assets/shared/images/freedomground.png
+assets/shared/images/freedomsky.png
+assets/shared/images/gback.png
+assets/shared/images/gfirst.png
+assets/shared/images/goutes.png
+assets/shared/images/goutes.xml
+assets/shared/images/gouttes.png
+assets/shared/images/gouttes.xml
+assets/shared/images/greenhillbackground.png
+assets/shared/images/greenhillbackground.xml
+assets/shared/images/greenhillforeground.png
+assets/shared/images/gwall.png
+assets/shared/images/healthBarBf.png
+assets/shared/images/healthBarDad.png
+assets/shared/images/healthBarOV.png
+assets/shared/images/hiddenPalace/BG-pixel.png
+assets/shared/images/hiddenPalace/BG.png
+assets/shared/images/hiddenPalace/Flor-pixel.png
+assets/shared/images/hiddenPalace/Flor.png
+assets/shared/images/hiddenblack.png
+assets/shared/images/hiddenclouds.png
+assets/shared/images/hiddenfloor.png
+assets/shared/images/hiddenrock.png
+assets/shared/images/hiddenshit.png
+assets/shared/images/hidebg.png
+assets/shared/images/hidefog.png
+assets/shared/images/hideground.png
+assets/shared/images/hidetree.png
+assets/shared/images/hidetrees.png
+assets/shared/images/hillbg.png
+assets/shared/images/hillground.png
+assets/shared/images/hillmountain.png
+assets/shared/images/hillrock.png
+assets/shared/images/house.png
+assets/shared/images/housebg.png
+assets/shared/images/housefr.png
+assets/shared/images/houseground.png
+assets/shared/images/ice bg.png
+assets/shared/images/ice floor.png
+assets/shared/images/knu.png
+assets/shared/images/knu.xml
+assets/shared/images/lava.png
+assets/shared/images/lava.xml
+assets/shared/images/lavas.png
+assets/shared/images/lavas.xml
+assets/shared/images/light.png
+assets/shared/images/light.xml
+assets/shared/images/light_1.png
+assets/shared/images/light_1.xml
+assets/shared/images/mechabg.png
+assets/shared/images/mechaground.png
+assets/shared/images/mechalmao.png
+assets/shared/images/mechashit.png
+assets/shared/images/mechatree.png
+assets/shared/images/metalBADNIK.png
+assets/shared/images/metalBG.png
+assets/shared/images/metalBL.png
+assets/shared/images/metalGROUND.png
+assets/shared/images/mountain behind sky.png
+assets/shared/images/mountain bg.png
+assets/shared/images/mountain ground.png
+assets/shared/images/mountain mountain.png
+assets/shared/images/mountain water.png
+assets/shared/images/mountain water.xml
+assets/shared/images/neige.png
+assets/shared/images/neige.xml
+assets/shared/images/nightback.png
+assets/shared/images/nightforest.png
+assets/shared/images/nightground.png
+assets/shared/images/oground.png
+assets/shared/images/pauseScreen/Continue.png
+assets/shared/images/pauseScreen/Exit.png
+assets/shared/images/pauseScreen/Restart.png
+images/pauseScreen/boyfriend.healthIcon.png
+assets/shared/images/pauseScreen/pauseLeft.png
+assets/shared/images/pauseScreen/pauseRight.png
+assets/shared/images/pipes.png
+assets/shared/images/plant_1.png
+assets/shared/images/plant_1.xml
+assets/shared/images/plant_2.png
+assets/shared/images/plant_2.xml
+assets/shared/images/plants.png
+assets/shared/images/progress.png
+assets/shared/images/readyCL.png
+assets/shared/images/real.png
+assets/shared/images/sback.png
+assets/shared/images/scrap bg.png
+assets/shared/images/scrap ground.png
+assets/shared/images/scrap platform.png
+assets/shared/images/scrap platform.xml
+assets/shared/images/scrap sky.png
+assets/shared/images/scrap wall.png
+assets/shared/images/scrap wall.xml
+assets/shared/images/sground.png
+assets/shared/images/skittlesdeath.png
+assets/shared/images/skittlesdeath.xml
+assets/shared/images/smoke.xml
+assets/shared/images/snowbg.png
+assets/shared/images/snowbgg.png
+assets/shared/images/snowground.png
+assets/shared/images/snowip.png
+assets/shared/images/sonicLoad.png
+assets/shared/images/south bg.png
+assets/shared/images/south forground.png
+assets/shared/images/south ground.png
+assets/shared/images/south mountains.png
+assets/shared/images/spacebar.png
+assets/shared/images/spacebar.xml
+assets/shared/images/swall.png
+assets/shared/images/tails.png
+assets/shared/images/tails.xml
+assets/shared/images/thering.png
+assets/shared/images/thering.xml
+assets/shared/images/therings.png
+assets/shared/images/therings.xml
+assets/shared/images/thing.png
+assets/shared/images/thing.xml
+assets/shared/images/tree ground.png
+assets/shared/images/tree.png
+assets/shared/images/trees.png
+assets/shared/images/vent.png
+assets/shared/images/vent.xml
+assets/shared/images/volcanoground.png
+assets/shared/images/volcanomountains.png
+assets/shared/images/volcanosky.png
+assets/shared/images/volcanowall.png
+assets/shared/images/water.png
+assets/shared/images/water.xml
+assets/shared/images/wave.png
+assets/shared/images/wave.xml
+assets/shared/images/waves2.png
+assets/shared/images/waves2.xml
+assets/shared/images/whisper.png
+assets/shared/images/whisper2.png
+assets/shared/images/whisperplat.png
+assets/shared/music/gameOver.ogg
+assets/shared/music/gameOverEnd.ogg
+assets/shared/music/soh-pause.ogg
+assets/shared/music/tea-time.ogg
+assets/songs/alliance-but-cringe/Inst.ogg
+assets/songs/alliance-but-cringe/Voices.ogg
+assets/songs/alliance/Inst.ogg
+assets/songs/alliance/Voices.ogg
+assets/songs/amnesia/Inst.ogg
+assets/songs/amnesia/Voices.ogg
+assets/songs/arch-soul/Inst.ogg
+assets/songs/arch-soul/Voices.ogg
+assets/songs/bingo-forest/Inst.ogg
+assets/songs/bingo-forest/Voices.ogg
+assets/songs/blood-sky/Inst.ogg
+assets/songs/blood-sky/Voices.ogg
+assets/songs/blood-temple/Inst.ogg
+assets/songs/blood-temple/Voices.ogg
+assets/songs/cry-hill/Inst.ogg
+assets/songs/cry-hill/Voices.ogg
+assets/songs/crystal-flame/Inst.ogg
+assets/songs/crystal-flame/Voices.ogg
+assets/songs/dark-spirit/Inst.ogg
+assets/songs/dark-spirit/Voices.ogg
+assets/songs/doll/Inst.ogg
+assets/songs/doll/Voices.ogg
+assets/songs/foggy-volcano/Inst.ogg
+assets/songs/foggy-volcano/Voices.ogg
+assets/songs/fragment-fight/Inst.ogg
+assets/songs/fragment-fight/Voices.ogg
+assets/songs/god-killer/Inst.ogg
+assets/songs/god-killer/Voices.ogg
+assets/songs/green-hill/Inst.ogg
+assets/songs/green-hill/Voices.ogg
+assets/songs/hidden-palace/Inst.ogg
+assets/songs/hidden-palace/Voices.ogg
+assets/songs/hydrocity/Inst.ogg
+assets/songs/hydrocity/Voices.ogg
+assets/songs/ice-cap/Inst.ogg
+assets/songs/ice-cap/Voices.ogg
+assets/songs/knuckong/Inst.ogg
+assets/songs/knuckong/Voices.ogg
+assets/songs/mecha-green-hill/Inst.ogg
+assets/songs/mecha-green-hill/Voices.ogg
+assets/songs/mecha-jungle/Inst.ogg
+assets/songs/mecha-jungle/Voices.ogg
+assets/songs/metallic-hardware/Inst.ogg
+assets/songs/metallic-hardware/Voices.ogg
+assets/songs/metropolis/Inst.ogg
+assets/songs/metropolis/Voices.ogg
+assets/songs/mountain-peek/Inst.ogg
+assets/songs/mountain-peek/Voices.ogg
+assets/songs/night-valley/Inst.ogg
+assets/songs/night-valley/Voices.ogg
+assets/songs/poor-girl/Inst.ogg
+assets/songs/poor-girl/Voices.ogg
+assets/songs/red-ring/Inst.ogg
+assets/songs/red-ring/Voices.ogg
+assets/songs/snowy-volcano/Inst.ogg
+assets/songs/snowy-volcano/Voices.ogg
+assets/songs/south-tropic/Inst.ogg
+assets/songs/south-tropic/Voices.ogg
+assets/songs/south-tropics/Inst.ogg
+assets/songs/south-tropics/Voices.ogg
+assets/songs/unless-spirit/Inst.ogg
+assets/songs/unless-spirit/Voices.ogg
+assets/songs/unwarp/Inst.ogg
+assets/songs/unwarp/Voices.ogg
+assets/songs/volcano-valley/Inst.ogg
+assets/songs/volcano-valley/Voices.ogg
+assets/songs/weak-power/Inst.ogg
+assets/songs/weak-power/Voices.ogg
+assets/songs/whisper/Inst.ogg
+assets/songs/whisper/Voices.ogg
+assets/songs/xmas/Inst.ogg
+assets/songs/xmas/Voices.ogg
+libvlc.dll
+libvlccore.dll
+manifest/default.json
+manifest/shared.json
+manifest/songs.json
+plugins/access/libaccess_concat_plugin.dll
+plugins/access/libaccess_imem_plugin.dll
+plugins/access/libaccess_mms_plugin.dll
+plugins/access/libaccess_realrtsp_plugin.dll
+plugins/access/libaccess_srt_plugin.dll
+plugins/access/libaccess_wasapi_plugin.dll
+plugins/access/libattachment_plugin.dll
+plugins/access/libbluray-awt-j2se-1.3.2.jar
+plugins/access/libbluray-j2se-1.3.2.jar
+plugins/access/libcdda_plugin.dll
+plugins/access/libdcp_plugin.dll
+plugins/access/libdshow_plugin.dll
+plugins/access/libdtv_plugin.dll
+plugins/access/libdvdnav_plugin.dll
+plugins/access/libdvdread_plugin.dll
+plugins/access/libfilesystem_plugin.dll
+plugins/access/libftp_plugin.dll
+plugins/access/libhttp_plugin.dll
+plugins/access/libhttps_plugin.dll
+plugins/access/libidummy_plugin.dll
+plugins/access/libimem_plugin.dll
+plugins/access/liblibbluray_plugin.dll
+plugins/access/liblive555_plugin.dll
+plugins/access/libnfs_plugin.dll
+plugins/access/librist_plugin.dll
+plugins/access/librtp_plugin.dll
+plugins/access/libsatip_plugin.dll
+plugins/access/libscreen_plugin.dll
+plugins/access/libsdp_plugin.dll
+plugins/access/libsftp_plugin.dll
+plugins/access/libshm_plugin.dll
+plugins/access/libsmb_plugin.dll
+plugins/access/libtcp_plugin.dll
+plugins/access/libtimecode_plugin.dll
+plugins/access/libudp_plugin.dll
+plugins/access/libvcd_plugin.dll
+plugins/access/libvdr_plugin.dll
+plugins/access/libvnc_plugin.dll
+libaccess_output_dummy_plugin.dll
+access_output/libaccess_output_file_plugin.dll
+access_output/libaccess_output_http_plugin.dll
+libaccess_output_livehttp_plugin.dll
+access_output/libaccess_output_rist_plugin.dll
+libaccess_output_shout_plugin.dll
+access_output/libaccess_output_srt_plugin.dll
+access_output/libaccess_output_udp_plugin.dll
+plugins/audio_filter/libaudio_format_plugin.dll
+plugins/audio_filter/libaudiobargraph_a_plugin.dll
+plugins/audio_filter/libchorus_flanger_plugin.dll
+plugins/audio_filter/libcompressor_plugin.dll
+libdolby_surround_decoder_plugin.dll
+plugins/audio_filter/libequalizer_plugin.dll
+plugins/audio_filter/libgain_plugin.dll
+libheadphone_channel_mixer_plugin.dll
+plugins/audio_filter/libkaraoke_plugin.dll
+plugins/audio_filter/libmad_plugin.dll
+plugins/audio_filter/libmono_plugin.dll
+plugins/audio_filter/libnormvol_plugin.dll
+plugins/audio_filter/libparam_eq_plugin.dll
+plugins/audio_filter/libremap_plugin.dll
+plugins/audio_filter/libsamplerate_plugin.dll
+audio_filter/libscaletempo_pitch_plugin.dll
+plugins/audio_filter/libscaletempo_plugin.dll
+libsimple_channel_mixer_plugin.dll
+plugins/audio_filter/libspatialaudio_plugin.dll
+plugins/audio_filter/libspatializer_plugin.dll
+plugins/audio_filter/libspeex_resampler_plugin.dll
+plugins/audio_filter/libstereo_widen_plugin.dll
+plugins/audio_filter/libtospdif_plugin.dll
+libtrivial_channel_mixer_plugin.dll
+plugins/audio_filter/libugly_resampler_plugin.dll
+plugins/audio_mixer/libfloat_mixer_plugin.dll
+plugins/audio_mixer/libinteger_mixer_plugin.dll
+plugins/audio_output/libadummy_plugin.dll
+plugins/audio_output/libafile_plugin.dll
+plugins/audio_output/libamem_plugin.dll
+plugins/audio_output/libdirectsound_plugin.dll
+plugins/audio_output/libmmdevice_plugin.dll
+plugins/audio_output/libwasapi_plugin.dll
+plugins/audio_output/libwaveout_plugin.dll
+plugins/codec/liba52_plugin.dll
+plugins/codec/libadpcm_plugin.dll
+plugins/codec/libaes3_plugin.dll
+plugins/codec/libaom_plugin.dll
+plugins/codec/libaraw_plugin.dll
+plugins/codec/libaribsub_plugin.dll
+plugins/codec/libavcodec_plugin.dll
+plugins/codec/libcc_plugin.dll
+plugins/codec/libcdg_plugin.dll
+plugins/codec/libcrystalhd_plugin.dll
+plugins/codec/libcvdsub_plugin.dll
+plugins/codec/libd3d11va_plugin.dll
+plugins/codec/libdav1d_plugin.dll
+plugins/codec/libdca_plugin.dll
+plugins/codec/libddummy_plugin.dll
+plugins/codec/libdmo_plugin.dll
+plugins/codec/libdvbsub_plugin.dll
+plugins/codec/libdxva2_plugin.dll
+plugins/codec/libedummy_plugin.dll
+plugins/codec/libfaad_plugin.dll
+plugins/codec/libflac_plugin.dll
+plugins/codec/libfluidsynth_plugin.dll
+plugins/codec/libg711_plugin.dll
+plugins/codec/libjpeg_plugin.dll
+plugins/codec/libkate_plugin.dll
+plugins/codec/liblibass_plugin.dll
+plugins/codec/liblibmpeg2_plugin.dll
+plugins/codec/liblpcm_plugin.dll
+plugins/codec/libmft_plugin.dll
+plugins/codec/libmpg123_plugin.dll
+plugins/codec/liboggspots_plugin.dll
+plugins/codec/libopus_plugin.dll
+plugins/codec/libpng_plugin.dll
+plugins/codec/libqsv_plugin.dll
+plugins/codec/librawvideo_plugin.dll
+plugins/codec/librtpvideo_plugin.dll
+plugins/codec/libschroedinger_plugin.dll
+plugins/codec/libscte18_plugin.dll
+plugins/codec/libscte27_plugin.dll
+plugins/codec/libsdl_image_plugin.dll
+plugins/codec/libspdif_plugin.dll
+plugins/codec/libspeex_plugin.dll
+plugins/codec/libspudec_plugin.dll
+plugins/codec/libstl_plugin.dll
+plugins/codec/libsubsdec_plugin.dll
+plugins/codec/libsubstx3g_plugin.dll
+plugins/codec/libsubsusf_plugin.dll
+plugins/codec/libsvcdsub_plugin.dll
+plugins/codec/libt140_plugin.dll
+plugins/codec/libtextst_plugin.dll
+plugins/codec/libtheora_plugin.dll
+plugins/codec/libttml_plugin.dll
+plugins/codec/libtwolame_plugin.dll
+plugins/codec/libuleaddvaudio_plugin.dll
+plugins/codec/libvorbis_plugin.dll
+plugins/codec/libvpx_plugin.dll
+plugins/codec/libwebvtt_plugin.dll
+plugins/codec/libx26410b_plugin.dll
+plugins/codec/libx264_plugin.dll
+plugins/codec/libx265_plugin.dll
+plugins/codec/libzvbi_plugin.dll
+plugins/control/libdummy_plugin.dll
+plugins/control/libgestures_plugin.dll
+plugins/control/libhotkeys_plugin.dll
+plugins/control/libnetsync_plugin.dll
+plugins/control/libntservice_plugin.dll
+plugins/control/liboldrc_plugin.dll
+plugins/control/libwin_hotkeys_plugin.dll
+plugins/control/libwin_msg_plugin.dll
+plugins/d3d11/libdirect3d11_filters_plugin.dll
+plugins/d3d9/libdirect3d9_filters_plugin.dll
+plugins/demux/libadaptive_plugin.dll
+plugins/demux/libaiff_plugin.dll
+plugins/demux/libasf_plugin.dll
+plugins/demux/libau_plugin.dll
+plugins/demux/libavi_plugin.dll
+plugins/demux/libcaf_plugin.dll
+plugins/demux/libdemux_cdg_plugin.dll
+plugins/demux/libdemux_chromecast_plugin.dll
+plugins/demux/libdemux_stl_plugin.dll
+plugins/demux/libdemuxdump_plugin.dll
+plugins/demux/libdiracsys_plugin.dll
+plugins/demux/libdirectory_demux_plugin.dll
+plugins/demux/libes_plugin.dll
+plugins/demux/libflacsys_plugin.dll
+plugins/demux/libgme_plugin.dll
+plugins/demux/libh26x_plugin.dll
+plugins/demux/libimage_plugin.dll
+plugins/demux/libmjpeg_plugin.dll
+plugins/demux/libmkv_plugin.dll
+plugins/demux/libmod_plugin.dll
+plugins/demux/libmp4_plugin.dll
+plugins/demux/libmpc_plugin.dll
+plugins/demux/libmpgv_plugin.dll
+plugins/demux/libnoseek_plugin.dll
+plugins/demux/libnsc_plugin.dll
+plugins/demux/libnsv_plugin.dll
+plugins/demux/libnuv_plugin.dll
+plugins/demux/libogg_plugin.dll
+plugins/demux/libplaylist_plugin.dll
+plugins/demux/libps_plugin.dll
+plugins/demux/libpva_plugin.dll
+plugins/demux/librawaud_plugin.dll
+plugins/demux/librawdv_plugin.dll
+plugins/demux/librawvid_plugin.dll
+plugins/demux/libreal_plugin.dll
+plugins/demux/libsid_plugin.dll
+plugins/demux/libsmf_plugin.dll
+plugins/demux/libsubtitle_plugin.dll
+plugins/demux/libts_plugin.dll
+plugins/demux/libtta_plugin.dll
+plugins/demux/libty_plugin.dll
+plugins/demux/libvc1_plugin.dll
+plugins/demux/libvobsub_plugin.dll
+plugins/demux/libvoc_plugin.dll
+plugins/demux/libwav_plugin.dll
+plugins/demux/libxa_plugin.dll
+plugins/gui/libqt_plugin.dll
+plugins/gui/libskins2_plugin.dll
+plugins/keystore/libfile_keystore_plugin.dll
+plugins/keystore/libmemory_keystore_plugin.dll
+plugins/logger/libconsole_logger_plugin.dll
+plugins/logger/libfile_logger_plugin.dll
+plugins/lua/liblua_plugin.dll
+plugins/meta_engine/libfolder_plugin.dll
+plugins/meta_engine/libtaglib_plugin.dll
+plugins/misc/libaddonsfsstorage_plugin.dll
+plugins/misc/libaddonsvorepository_plugin.dll
+plugins/misc/libaudioscrobbler_plugin.dll
+plugins/misc/libexport_plugin.dll
+plugins/misc/libfingerprinter_plugin.dll
+plugins/misc/libgnutls_plugin.dll
+plugins/misc/liblogger_plugin.dll
+plugins/misc/libstats_plugin.dll
+plugins/misc/libvod_rtsp_plugin.dll
+plugins/misc/libxml_plugin.dll
+plugins/mux/libmux_asf_plugin.dll
+plugins/mux/libmux_avi_plugin.dll
+plugins/mux/libmux_dummy_plugin.dll
+plugins/mux/libmux_mp4_plugin.dll
+plugins/mux/libmux_mpjpeg_plugin.dll
+plugins/mux/libmux_ogg_plugin.dll
+plugins/mux/libmux_ps_plugin.dll
+plugins/mux/libmux_ts_plugin.dll
+plugins/mux/libmux_wav_plugin.dll
+plugins/packetizer/libpacketizer_a52_plugin.dll
+plugins/packetizer/libpacketizer_av1_plugin.dll
+plugins/packetizer/libpacketizer_copy_plugin.dll
+plugins/packetizer/libpacketizer_dirac_plugin.dll
+plugins/packetizer/libpacketizer_dts_plugin.dll
+plugins/packetizer/libpacketizer_flac_plugin.dll
+plugins/packetizer/libpacketizer_h264_plugin.dll
+plugins/packetizer/libpacketizer_hevc_plugin.dll
+plugins/packetizer/libpacketizer_mlp_plugin.dll
+packetizer/libpacketizer_mpeg4audio_plugin.dll
+packetizer/libpacketizer_mpeg4video_plugin.dll
+packetizer/libpacketizer_mpegaudio_plugin.dll
+packetizer/libpacketizer_mpegvideo_plugin.dll
+plugins/packetizer/libpacketizer_vc1_plugin.dll
+plugins/plugins.dat
+plugins/services_discovery/libmediadirs_plugin.dll
+plugins/services_discovery/libmicrodns_plugin.dll
+plugins/services_discovery/libpodcast_plugin.dll
+plugins/services_discovery/libsap_plugin.dll
+plugins/services_discovery/libupnp_plugin.dll
+plugins/services_discovery/libwindrive_plugin.dll
+plugins/spu/libaudiobargraph_v_plugin.dll
+plugins/spu/liblogo_plugin.dll
+plugins/spu/libmarq_plugin.dll
+plugins/spu/libmosaic_plugin.dll
+plugins/spu/libremoteosd_plugin.dll
+plugins/spu/librss_plugin.dll
+plugins/spu/libsubsdelay_plugin.dll
+plugins/stream_extractor/libarchive_plugin.dll
+plugins/stream_filter/libadf_plugin.dll
+plugins/stream_filter/libaribcam_plugin.dll
+plugins/stream_filter/libcache_block_plugin.dll
+plugins/stream_filter/libcache_read_plugin.dll
+plugins/stream_filter/libhds_plugin.dll
+plugins/stream_filter/libinflate_plugin.dll
+plugins/stream_filter/libprefetch_plugin.dll
+plugins/stream_filter/librecord_plugin.dll
+plugins/stream_filter/libskiptags_plugin.dll
+stream_out/libstream_out_autodel_plugin.dll | Bi
+plugins/stream_out/libstream_out_bridge_plugin.dll
+libstream_out_chromaprint_plugin.dll | Bi
+stream_out/libstream_out_chromecast_plugin.dll | Bi
+plugins/stream_out/libstream_out_cycle_plugin.dll
+plugins/stream_out/libstream_out_delay_plugin.dll
+libstream_out_description_plugin.dll | Bi
+stream_out/libstream_out_display_plugin.dll | Bi
+plugins/stream_out/libstream_out_dummy_plugin.dll
+stream_out/libstream_out_duplicate_plugin.dll | Bi
+plugins/stream_out/libstream_out_es_plugin.dll
+plugins/stream_out/libstream_out_gather_plugin.dll
+libstream_out_mosaic_bridge_plugin.dll | Bi
+plugins/stream_out/libstream_out_record_plugin.dll
+plugins/stream_out/libstream_out_rtp_plugin.dll
+plugins/stream_out/libstream_out_setid_plugin.dll
+plugins/stream_out/libstream_out_smem_plugin.dll
+stream_out/libstream_out_standard_plugin.dll | Bi
+plugins/stream_out/libstream_out_stats_plugin.dll
+stream_out/libstream_out_transcode_plugin.dll | Bi
+plugins/text_renderer/libfreetype_plugin.dll
+plugins/text_renderer/libsapi_plugin.dll
+plugins/text_renderer/libtdummy_plugin.dll
+plugins/video_chroma/libchain_plugin.dll
+plugins/video_chroma/libgrey_yuv_plugin.dll
+plugins/video_chroma/libi420_10_p010_plugin.dll
+plugins/video_chroma/libi420_nv12_plugin.dll
+plugins/video_chroma/libi420_rgb_mmx_plugin.dll
+plugins/video_chroma/libi420_rgb_plugin.dll
+plugins/video_chroma/libi420_rgb_sse2_plugin.dll
+plugins/video_chroma/libi420_yuy2_mmx_plugin.dll
+plugins/video_chroma/libi420_yuy2_plugin.dll
+plugins/video_chroma/libi420_yuy2_sse2_plugin.dll
+plugins/video_chroma/libi422_i420_plugin.dll
+plugins/video_chroma/libi422_yuy2_mmx_plugin.dll
+plugins/video_chroma/libi422_yuy2_plugin.dll
+plugins/video_chroma/libi422_yuy2_sse2_plugin.dll
+plugins/video_chroma/librv32_plugin.dll
+plugins/video_chroma/libswscale_plugin.dll
+plugins/video_chroma/libyuvp_plugin.dll
+plugins/video_chroma/libyuy2_i420_plugin.dll
+plugins/video_chroma/libyuy2_i422_plugin.dll
+plugins/video_filter/libadjust_plugin.dll
+plugins/video_filter/libalphamask_plugin.dll
+plugins/video_filter/libanaglyph_plugin.dll
+plugins/video_filter/libantiflicker_plugin.dll
+plugins/video_filter/libball_plugin.dll
+plugins/video_filter/libblend_plugin.dll
+plugins/video_filter/libblendbench_plugin.dll
+plugins/video_filter/libbluescreen_plugin.dll
+plugins/video_filter/libcanvas_plugin.dll
+plugins/video_filter/libcolorthres_plugin.dll
+plugins/video_filter/libcroppadd_plugin.dll
+plugins/video_filter/libdeinterlace_plugin.dll
+plugins/video_filter/libedgedetection_plugin.dll
+plugins/video_filter/liberase_plugin.dll
+plugins/video_filter/libextract_plugin.dll
+plugins/video_filter/libfps_plugin.dll
+plugins/video_filter/libfreeze_plugin.dll
+plugins/video_filter/libgaussianblur_plugin.dll
+plugins/video_filter/libgradfun_plugin.dll
+plugins/video_filter/libgradient_plugin.dll
+plugins/video_filter/libgrain_plugin.dll
+plugins/video_filter/libhqdn3d_plugin.dll
+plugins/video_filter/libinvert_plugin.dll
+plugins/video_filter/libmagnify_plugin.dll
+plugins/video_filter/libmirror_plugin.dll
+plugins/video_filter/libmotionblur_plugin.dll
+plugins/video_filter/libmotiondetect_plugin.dll
+plugins/video_filter/liboldmovie_plugin.dll
+plugins/video_filter/libposterize_plugin.dll
+plugins/video_filter/libpostproc_plugin.dll
+plugins/video_filter/libpsychedelic_plugin.dll
+plugins/video_filter/libpuzzle_plugin.dll
+plugins/video_filter/libripple_plugin.dll
+plugins/video_filter/librotate_plugin.dll
+plugins/video_filter/libscale_plugin.dll
+plugins/video_filter/libscene_plugin.dll
+plugins/video_filter/libsepia_plugin.dll
+plugins/video_filter/libsharpen_plugin.dll
+plugins/video_filter/libtransform_plugin.dll
+plugins/video_filter/libvhs_plugin.dll
+plugins/video_filter/libwave_plugin.dll
+plugins/video_output/libcaca_plugin.dll
+plugins/video_output/libdirect3d11_plugin.dll
+plugins/video_output/libdirect3d9_plugin.dll
+plugins/video_output/libdirectdraw_plugin.dll
+plugins/video_output/libdrawable_plugin.dll
+plugins/video_output/libflaschen_plugin.dll
+plugins/video_output/libgl_plugin.dll
+plugins/video_output/libglwin32_plugin.dll
+plugins/video_output/libvdummy_plugin.dll
+plugins/video_output/libvmem_plugin.dll
+plugins/video_output/libwgl_plugin.dll
+plugins/video_output/libwingdi_plugin.dll
+plugins/video_output/libwinhibit_plugin.dll
+plugins/video_output/libyuv_plugin.dll
+plugins/video_splitter/libclone_plugin.dll
+plugins/video_splitter/libpanoramix_plugin.dll
+plugins/video_splitter/libwall_plugin.dll
+plugins/visualization/libglspectrum_plugin.dll
+plugins/visualization/libgoom_plugin.dll
+plugins/visualization/libprojectm_plugin.dll
+plugins/visualization/libvisual_plugin.dll

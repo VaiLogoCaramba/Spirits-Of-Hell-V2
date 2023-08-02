@@ -1,1 +1,12 @@
-
+2.0.2 - Bug Fixes
+- Fixed Pressing TAB crashing the game
+- Fixed The Health Bar Offset
+- Mod folder isnt needed anymore
+- Changed Game Over
+- Give Up Screen Doesn't crash Anymore
+- Added Weed Vision in drip part for Aliance But Cringe
+- Added Subtitles for Aliance But Cringe
+- Notes and Sprites no longer flashes
+- Character no longer turn transparent
+- Smooth Health Bar
+- Fixed Middle Scroll for Bingo Forest

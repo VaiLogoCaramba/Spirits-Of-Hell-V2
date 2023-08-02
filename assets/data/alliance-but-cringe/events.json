@@ -8,6 +8,21 @@
 						"Add Camera Zoom",
 						"",
 						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf_funny"
+					]
+				]
+			],
+			[
+				38068.9655172414,
+				[
+					[
+						"Change Character",
+						"bf",
+						"cbf"
 					]
 				]
 			],
@@ -33,6 +48,11 @@
 						"Change Character",
 						"dad",
 						"mouse"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf_funny"
 					]
 				]
 			],
@@ -51,8 +71,13 @@
 				[
 					[
 						"Change Character",
+						"bf",
+						"cbf"
+					],
+					[
+						"Change Character",
 						"dad",
-						"tailsnormal"
+						"Tails_cringe"
 					]
 				]
 			],
@@ -97,6 +122,16 @@
 					[
 						"Add Camera Zoom",
 						"",
+						""
+					]
+				]
+			],
+			[
+				105948.275862069,
+				[
+					[
+						"Drug Time",
+						"yes",
 						""
 					]
 				]
@@ -182,6 +217,16 @@
 				]
 			],
 			[
+				112547.413793103,
+				[
+					[
+						"Drug Time",
+						"no",
+						""
+					]
+				]
+			],
+			[
 				112551.724137931,
 				[
 					[
@@ -193,6 +238,111 @@
 						"Change Character",
 						"dad",
 						"knuckong"
+					],
+					[
+						"Play Animation",
+						"transitionIDLE",
+						"bf"
+					]
+				]
+			],
+			[
+				112862.068965517,
+				[
+					[
+						"Alt Idle Animation",
+						"BF",
+						"idle-alt"
+					]
+				]
+			],
+			[
+				113068.965517241,
+				[
+					[
+						"Lyrics",
+						"Is this thing on?",
+						"red"
+					]
+				]
+			],
+			[
+				114206.896551724,
+				[
+					[
+						"Lyrics",
+						"",
+						"none"
+					]
+				]
+			],
+			[
+				115241.379310345,
+				[
+					[
+						"Lyrics",
+						"*cough*",
+						"red"
+					]
+				]
+			],
+			[
+				115655.172413793,
+				[
+					[
+						"Lyrics",
+						"*cough*",
+						"blue"
+					]
+				]
+			],
+			[
+				115965.517241379,
+				[
+					[
+						"Lyrics",
+						"*cough*",
+						"cyan"
+					]
+				]
+			],
+			[
+				116068.965517241,
+				[
+					[
+						"Lyrics",
+						"*cough*",
+						"pink"
+					]
+				]
+			],
+			[
+				116275.862068965,
+				[
+					[
+						"Lyrics",
+						"*cough*",
+						"lime"
+					]
+				]
+			],
+			[
+				116379.310344828,
+				[
+					[
+						"Lyrics",
+						"*cough*",
+						"red"
+					]
+				]
+			],
+			[
+				117413.793103448,
+				[
+					[
+						"Lyrics",
+						"Hello Mathew",
+						"red"
 					]
 				]
 			],
@@ -200,9 +350,9 @@
 				118034.482758621,
 				[
 					[
-						"Add Camera Zoom",
-						"",
-						""
+						"Change Character",
+						"bf",
+						"bf_funny"
 					]
 				]
 			],
@@ -223,6 +373,16 @@
 						"Add Camera Zoom",
 						"",
 						""
+					]
+				]
+			],
+			[
+				118267.24137931,
+				[
+					[
+						"Lyrics",
+						"",
+						"none"
 					]
 				]
 			],
@@ -277,6 +437,26 @@
 				]
 			],
 			[
+				118862.068965517,
+				[
+					[
+						"Alt Idle Animation",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"tailsnormal"
+					],
+					[
+						"Lyrics",
+						"WHAT THE-",
+						"yellow"
+					]
+				]
+			],
+			[
 				119068.965517241,
 				[
 					[
@@ -286,43 +466,23 @@
 					],
 					[
 						"Change Character",
-						"dad",
-						"tailsnormal"
-					]
-				]
-			],
-			[
-				145655.172413793,
-				[
-					[
-						"Change Character",
-						"dad",
-						"mouse"
-					]
-				]
-			],
-			[
-				146793.103448276,
-				[
-					[
-						"Change Character",
 						"bf",
-						"soul sonic"
-					]
-				]
-			],
-			[
-				147310.344827586,
-				[
-					[
-						"Flashing Camera",
-						"flash",
-						""
+						"cbf"
 					],
 					[
 						"Change Character",
-						"gf",
-						"cheese"
+						"dad",
+						"Tails_cringe"
+					]
+				]
+			],
+			[
+				119172.413793103,
+				[
+					[
+						"Lyrics",
+						"",
+						"none"
 					]
 				]
 			]

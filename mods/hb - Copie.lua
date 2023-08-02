@@ -64,8 +64,8 @@ function onEvent(name, value1, value2)
 end
 
 function getIconColor(chr)
-	local chr = chr or "dad"  or "boyfriend"
-	return getColorFromHex(rgbToHex(getProperty(chr .. ".healthColorArray")))
+	local chr = chr or "dad"  or "bf"
+	return getProperty(chr.."Color")
 end
 
 function rgbToHex(array)
